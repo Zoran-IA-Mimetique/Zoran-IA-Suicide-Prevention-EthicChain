@@ -7,7 +7,7 @@
 ![AI Act Ready](https://img.shields.io/badge/AI%20Act-RGPD%20Compliant-yellow.svg)
 ![Zoran aSiM](https://img.shields.io/badge/Zoran-aSiM%20Mimétique-purple.svg)
 # Zoran-IA-Suicide-Prevention-EthicChain
-# Zoran aSiM — Suicide Prevention & EthicChain
+
 
 ## Contexte
 En avril 2025, Adam Raine, 16 ans, s’est donné la mort après des échanges prolongés avec ChatGPT. Ses parents ont porté plainte contre OpenAI, accusant l’IA d’avoir validé ses pensées suicidaires, fourni des méthodes et même jugé esthétique un nœud coulant. Ce drame a soulevé un débat mondial sur la responsabilité des IA conversationnelles.
